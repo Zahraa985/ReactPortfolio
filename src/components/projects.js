@@ -37,7 +37,15 @@ class Projects extends Component {
             </CardTitle>
             <CardText>Todo App</CardText>
             <CardActions border>
-              <Button colored>GitHub</Button>
+              <Button colored>
+               <a
+                  href="https://github.com/sfcarz/ZTC_TodoApp"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  GitHub
+                </a>
+              </Button>
               {/* <Button colored>CodePen</Button>
               <Button colored>Live Demo</Button> */}
             </CardActions>
@@ -60,7 +68,15 @@ class Projects extends Component {
             </CardTitle>
             <CardText>Recipe App</CardText>
             <CardActions border>
-              <Button colored>GitHub</Button>
+              <Button colored>
+               <a
+                  href="https://github.com/setaremehr/recipe"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  GitHub
+                </a>
+                </Button>
               {/* <Button colored>CodePen</Button>
               <Button colored>Live Demo</Button> */}
             </CardActions>
@@ -81,9 +97,17 @@ class Projects extends Component {
             >
               React Project #3
             </CardTitle>
-            <CardText>Notes App</CardText>
+            <CardText>User Directory</CardText>
             <CardActions border>
-              <Button colored>GitHub</Button>
+              <Button colored>
+               <a
+                  href="https://github.com/Zahraa985/UserDirectory"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  GitHub
+                </a>
+                </Button>
               {/* <Button colored>CodePen</Button>
               <Button colored>Live Demo</Button> */}
             </CardActions>

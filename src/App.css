@@ -20,10 +20,12 @@
     left: 0;
     width: 100%;
     height: 100%;
+    overflow: auto;
 }
 
 .projects-grid {
     display: flex;
+
 }
 
 
@@ -55,6 +57,7 @@
     background: white;
     color: black;
     margin-bottom: 20px;
+    overflow: auto;
 }
 
 .contact-grid h2 {
